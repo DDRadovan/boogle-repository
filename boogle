@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+    <title>Boogle Login</title>
+    <link rel="stylesheet" href="BoogleLoginStyle.css" >
+    </head>
+    <body>
+      <div class="header">
+        <img src="http://boogle-battleofthebooks.weebly.com/uploads/2/6/0/8/26083305/7611755_orig.png" alt="boogle logo" class="center" >
+      </div>
+      <div class="title">
+        <p class="LoginTitle"> One account. All of Boogle. </p>
+      <p class="SecondTitle"> Sign in with your Boogle Account </p>
+    </div>
+
+    <div class="okence">
+      <img class="ProfilePicture" src="https://ssl.gstatic.com/images/branding/product/1x/avatar_circle_blue_512dp.png" alt="gmail avatar">
+      <input type="text" placeholder="Enter your email" class="Gmailokence">
+
+         <button class="NextButton" type="submit"> Next </button>
+
+       <a href="#" class="password"> Forgot password? </a>
+    </div>
+
+
+    </body>
+</html>
